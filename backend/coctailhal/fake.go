@@ -1,4 +1,4 @@
-package coctalhal
+package coctailhal
 
 import (
 	"errors"

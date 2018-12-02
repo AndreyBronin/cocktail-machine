@@ -1,4 +1,4 @@
-package coctalhal
+package coctailhal
 
 type Contains []float32
 

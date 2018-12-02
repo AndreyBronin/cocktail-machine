@@ -1,9 +1,9 @@
 // Blockchain
 package blockachain
 
-import "github.com/AndreyBronin/cocktail-machine/backend/coctalhal"
+import "github.com/AndreyBronin/cocktail-machine/backend/coctailhal"
 
 // BlockChain interface to public blockchain SDK
 type BlockChain interface {
-	CheckCoctail(contract string) coctalhal.Contains
+	CheckCoctail(contract string) coctailhal.Contains
 }
