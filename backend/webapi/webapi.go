@@ -15,7 +15,7 @@ type WebApi interface {
 
 type WebAPIComponent struct {
 	Port int
-	Host int
+	Host string
 }
 
 func (wa WebAPIComponent) Start() {
